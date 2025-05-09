@@ -2,7 +2,7 @@
 
 int main(){
 // Dados da Carta 1 - Serrinha
-    char estado1[] = "BA"; 
+    char estado1[] = "BA";
     char codigo1[] = "A01"; 
     char nomeCidade1[] = "Serrinha"; 
     int populacao1 = 84181; 
